@@ -1,0 +1,17 @@
+bibentry(
+    bibtype = "article",
+    author = personList(as.person("Ruiz-Arenas, Carlos"),
+    as.person("Marin-Goni, Irene"),
+    as.person("Wang, Leiwei"),
+    as.person("Ochoa, Idoia"),
+    as.person("Perez-Jurado, Luis A"),
+    as.person("Hernaez, Mikel")),
+    title = "NetActivity enhances transcriptional signals by combining gene expression into robust gene set activity scores through interpretable autoencoders",
+    journal = "Nucleic acids research",
+    year = 2024,
+    volume = 1,
+    doi = "10.1093/NAR/GKAE197",
+    textVersion = paste("Ruiz-Arenas, C., Marin-Goni, I., Wang, L., Ochoa, I., Perez-Jurado, L. A., & Hernaez, M. (2024).", 
+        "NetActivity enhances transcriptional signals by combining gene expression into robust gene set activity scores through interpretable autoencoders.",
+        "Nucleic acids research, gkae197. Advance online publication. https://doi.org/10.1093/nar/gkae197")
+)
